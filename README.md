@@ -3,7 +3,7 @@
 
 A test for learning the basics
 
-## SubHeading
+## Test for fun
 
 
 This is a test i did inside vscode to commit
